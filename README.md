@@ -1,4 +1,4 @@
-Retrieve user details from the Github API coded using Javascript. 
+Used JavaScript to retrieve user details from the Github API  
 
 Landing Page: 
 ![image](https://github.com/DanielAllaga/Github-API/assets/47859210/09d3afce-0065-4bb1-a455-5dd98a22cfd4)
