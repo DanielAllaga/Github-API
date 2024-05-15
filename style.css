@@ -1,0 +1,117 @@
+body {
+    background-image: url('background-image.png'); 
+    background-size: cover;
+
+}
+header {
+    width: 100%; 
+    background-color: #151515;
+    padding: 20px; 
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -10px; 
+    text-align: center;
+
+
+}
+
+header img {
+    margin-right: 10px; 
+    width: auto;
+    height: auto;
+}
+
+.label{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+.container {
+
+    margin-top : 5%;
+    border: 5px solid rgb(88, 87, 87);
+    padding: 20px;
+    border-radius: 20px;
+
+}
+
+.profile-section {
+    display: none;
+    font-size: 20px; 
+    font-weight: 600;
+
+    color: white
+}
+
+.alert {
+    display: none; 
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+
+#userAvatar{
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 15px;
+   
+}
+
+#githubForm { 
+    background-color: #131313;
+    padding: 40px;
+    border-radius: 5px;
+    width: 25%;
+    margin: 40px auto;
+    border-radius: 20px;
+    border: 1px solid rgb(88, 87, 87);
+ 
+
+}
+
+#userAvatar{
+    border-radius: 20px;
+}
+
+.col-7 {
+
+    padding-top: 30px;
+
+}
+
+
+.alert {
+    margin-bottom: -100px;
+}
+
+.center-btn {
+    
+    margin-left: 30%;
+    margin-top: 20px;
+    width: 200px;
+
+}
+
+.footer {
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #151515;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #fff9f9;
+    margin-top: 28%;
+    font-size: 20px;
+    
+}
+
+
